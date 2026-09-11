@@ -1,0 +1,25 @@
+{
+  "indigenous_seed_mentions": 636,
+  "indigenous_mentions_by_canonical_candidate": {
+    "Powhatan": 21,
+    "Opechancanough": 11,
+    "Tomakin": 5,
+    "Gepanocon": 3,
+    "Powhatan paramount polity": 15,
+    "Chickahominy": 3,
+    "Pamunkey": 11,
+    "Chesapeake": 13,
+    "Accomac": 4,
+    "Rappahannock": 2,
+    "Monacan": 1,
+    "Manahoac": 2,
+    "Tanx Powhatans": 3,
+    "Tanx Weyanokes": 3,
+    "weroance": 9,
+    "Indian": 447,
+    "Savage": 44,
+    "native": 39
+  },
+  "existing_ner_person_candidates": 828,
+  "important_limit": "These are annotation candidates, not an exhaustive or authoritative list of people."
+}

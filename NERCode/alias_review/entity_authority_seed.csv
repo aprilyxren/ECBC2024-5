@@ -1,0 +1,29 @@
+canonical_id,canonical_name,entity_type,group,approved_variant,variant_type,confidence,evidence_note
+person_thomas_smythe,Sir Thomas Smythe,PERSON,Virginia_Company_officer,Sir Thomas Smythe,canonical,high,Seed authority record; verify each corpus occurrence by role and date.
+person_thomas_smythe,Sir Thomas Smythe,PERSON,Virginia_Company_officer,Thomas Smythe,historical_spelling,high,Title omitted.
+person_thomas_smythe,Sir Thomas Smythe,PERSON,Virginia_Company_officer,Thomas Smith,possible_spelling_variant,medium,Do not merge automatically; distinguish from other Thomas Smiths.
+person_edwin_sandys,Sir Edwin Sandys,PERSON,Virginia_Company_officer,Sir Edwin Sandys,canonical,high,Seed authority record.
+person_edwin_sandys,Sir Edwin Sandys,PERSON,Virginia_Company_officer,Edwin Sandys,historical_spelling,high,Title omitted.
+person_nicholas_ferrar,Nicholas Ferrar,PERSON,Virginia_Company_officer,Nicholas Ferrar,canonical,high,Seed authority record.
+person_nicholas_ferrar,Nicholas Ferrar,PERSON,Virginia_Company_officer,Nich: ffarrar,ocr_and_abbreviation,medium,Verify in the document context.
+person_john_ferrar,John Ferrar,PERSON,Virginia_Company_officer,John Ferrar,canonical,high,Seed authority record.
+person_john_smith,Captain John Smith,PERSON,colonial_individual,Captain John Smith,canonical,high,Seed authority record.
+person_john_smith,Captain John Smith,PERSON,colonial_individual,John Smith,historical_spelling,high,Title omitted.
+person_john_smith_of_nibley,John Smith of Nibley,PERSON,Virginia_Company_or_colonial_unverified,John Smith of Nibley,canonical,high,Identified in source context as John Smith of Nibley.
+person_john_smith_of_nibley,John Smith of Nibley,PERSON,Virginia_Company_or_colonial_unverified,John Smith,short_form,medium,Use only when context identifies him as of Nibley; ambiguous with Captain John Smith.
+person_samuel_argall,Sir Samuel Argall,PERSON,colonial_individual,Samuel Argall,canonical,high,Seed authority record.
+person_george_yeardley,Sir George Yeardley,PERSON,colonial_individual,George Yeardley,canonical,high,Seed authority record.
+person_francis_wyatt,Sir Francis Wyatt,PERSON,colonial_individual,Francis Wyatt,canonical,high,Seed authority record.
+person_thomas_dale,Sir Thomas Dale,PERSON,colonial_individual,Thomas Dale,canonical,high,Seed authority record.
+person_thomas_gates,Sir Thomas Gates,PERSON,colonial_individual,Thomas Gates,canonical,high,Seed authority record.
+person_john_rolfe,John Rolfe,PERSON,colonial_individual,John Rolfe,canonical,high,Seed authority record.
+person_william_tucker,Captain William Tucker,PERSON,colonial_individual,William Tucker,canonical,high,Seed authority record.
+person_george_sandys,George Sandys,PERSON,colonial_individual,George Sandys,canonical,high,Seed authority record.
+person_edward_brewster,Edward Brewster,PERSON,colonial_individual,Edward Brewster,canonical,high,Seed authority record.
+person_john_martin,Captain John Martin,PERSON,colonial_individual,John Martin,canonical,high,Seed authority record.
+indigenous_powhatan,Powhatan,PERSON,Indigenous_named_person,Powhatan,canonical,high,Do not use for collective/territorial mentions.
+indigenous_powhatan,Powhatan,PERSON,Indigenous_named_person,Powhaton,historical_spelling,high,Corpus spelling.
+indigenous_opechancanough,Opechancanough,PERSON,Indigenous_named_person,Opechancanough,canonical,high,Seed authority record.
+indigenous_opechancanough,Opechancanough,PERSON,Indigenous_named_person,Opachancano,historical_spelling,high,Corpus spelling.
+indigenous_opechancanough,Opechancanough,PERSON,Indigenous_named_person,Oppachancano,historical_spelling,high,Corpus spelling.
+indigenous_tomakin,Tomakin,PERSON,Indigenous_named_person,Tomakin,canonical,high,Seed authority record.

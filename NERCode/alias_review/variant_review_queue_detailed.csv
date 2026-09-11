@@ -1,0 +1,90 @@
+detail_id,cluster_id,observed_mention,candidate_id,rank,proposed_canonical_id,proposed_canonical_name,matched_authority_variant,match_score,matching_rationale
+VR00001,VC00001,Edwin Sandys,PC00003,1,person_edwin_sandys,Sir Edwin Sandys,Sir Edwin Sandys,1.000,surname plus given-name comparison
+VR00002,VC00001,Edwin Sandys,PC00003,2,person_george_sandys,George Sandys,George Sandys,0.792,surname plus given-name comparison
+VR00003,VC00002,Smith,PC00007,1,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,1.000,surname-only comparison
+VR00004,VC00002,Smith,PC00007,2,person_john_smith,Captain John Smith,Captain John Smith,1.000,surname-only comparison
+VR00005,VC00002,Smith,PC00007,3,person_john_smith_of_nibley,John Smith of Nibley,John Smith,1.000,surname-only comparison
+VR00006,VC00003,Martin,PC00012,1,person_john_martin,Captain John Martin,John Martin,1.000,surname-only comparison
+VR00007,VC00004,Argall,PC00015,1,person_samuel_argall,Sir Samuel Argall,Samuel Argall,1.000,surname-only comparison
+VR00008,VC00005,Thomas Smythe,PC00021,1,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,1.000,surname plus given-name comparison
+VR00009,VC00005,Thomas Smythe,PC00021,2,person_john_smith,Captain John Smith,Captain John Smith,0.792,surname plus given-name comparison
+VR00010,VC00005,Thomas Smythe,PC00021,3,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.792,surname plus given-name comparison
+VR00011,VC00006,Edwyn Sandys,PC00023,1,person_edwin_sandys,Sir Edwin Sandys,Sir Edwin Sandys,1.000,surname plus given-name comparison
+VR00012,VC00006,Edwyn Sandys,PC00023,2,person_george_sandys,George Sandys,George Sandys,0.792,surname plus given-name comparison
+VR00013,VC00007,George Sandys,PC00026,1,person_george_sandys,George Sandys,George Sandys,1.000,surname plus given-name comparison
+VR00014,VC00007,George Sandys,PC00026,2,person_edwin_sandys,Sir Edwin Sandys,Sir Edwin Sandys,0.792,surname plus given-name comparison
+VR00015,VC00008,Thomas Dale,PC00030,1,person_thomas_dale,Sir Thomas Dale,Thomas Dale,1.000,surname plus given-name comparison
+VR00016,VC00009,Samuel Argall,PC00037,1,person_samuel_argall,Sir Samuel Argall,Samuel Argall,1.000,surname plus given-name comparison
+VR00017,VC00010,John Smith,PC00058,1,person_john_smith,Captain John Smith,Captain John Smith,1.000,surname plus given-name comparison
+VR00018,VC00010,John Smith,PC00058,2,person_john_smith_of_nibley,John Smith of Nibley,John Smith,1.000,surname plus given-name comparison
+VR00019,VC00010,John Smith,PC00058,3,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,0.792,surname plus given-name comparison
+VR00020,VC00011,Nicholas Ferrar,PC00059,1,person_nicholas_ferrar,Nicholas Ferrar,Nicholas Ferrar,1.000,surname plus given-name comparison
+VR00021,VC00011,Nicholas Ferrar,PC00059,2,person_john_ferrar,John Ferrar,John Ferrar,0.781,surname plus given-name comparison
+VR00022,VC00012,Stith,PC00060,1,person_thomas_smythe,Sir Thomas Smythe,Thomas Smith,0.800,surname-only comparison
+VR00023,VC00012,Stith,PC00060,2,person_john_smith,Captain John Smith,Captain John Smith,0.800,surname-only comparison
+VR00024,VC00012,Stith,PC00060,3,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.800,surname-only comparison
+VR00025,VC00013,Thomas Gates,PC00061,1,person_thomas_gates,Sir Thomas Gates,Thomas Gates,1.000,surname plus given-name comparison
+VR00026,VC00014,Tucker,PC00071,1,person_william_tucker,Captain William Tucker,William Tucker,1.000,surname-only comparison
+VR00027,VC00015,George Yeardley,PC00077,1,person_george_yeardley,Sir George Yeardley,George Yeardley,1.000,surname plus given-name comparison
+VR00028,VC00016,Francis Wyate,PC00088,1,person_francis_wyatt,Sir Francis Wyatt,Francis Wyatt,0.850,surname plus given-name comparison
+VR00029,VC00017,John Rolfe,PC00090,1,person_john_rolfe,John Rolfe,John Rolfe,1.000,surname plus given-name comparison
+VR00030,VC00018,Nicholas Farrar,PC00095,1,person_nicholas_ferrar,Nicholas Ferrar,Nich: ffarrar,1.000,surname plus given-name comparison
+VR00031,VC00019,Samuell Argall,PC00101,1,person_samuel_argall,Sir Samuel Argall,Samuel Argall,0.964,surname plus given-name comparison
+VR00032,VC00020,Ferrar,PC00113,1,person_nicholas_ferrar,Nicholas Ferrar,Nicholas Ferrar,1.000,surname-only comparison
+VR00033,VC00020,Ferrar,PC00113,2,person_john_ferrar,John Ferrar,John Ferrar,1.000,surname-only comparison
+VR00034,VC00021,George Smith,PC00115,1,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,0.792,surname plus given-name comparison
+VR00035,VC00021,George Smith,PC00115,2,person_john_smith,Captain John Smith,Captain John Smith,0.792,surname plus given-name comparison
+VR00036,VC00021,George Smith,PC00115,3,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.792,surname plus given-name comparison
+VR00037,VC00022,Iohn Smith,PC00118,1,person_john_smith,Captain John Smith,Captain John Smith,0.938,surname plus given-name comparison
+VR00038,VC00022,Iohn Smith,PC00118,2,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.938,surname plus given-name comparison
+VR00039,VC00022,Iohn Smith,PC00118,3,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,0.792,surname plus given-name comparison
+VR00040,VC00023,Captaine Martin,PC00153,1,person_john_martin,Captain John Martin,John Martin,0.781,surname plus given-name comparison
+VR00041,VC00024,Farrars,PC00160,1,person_nicholas_ferrar,Nicholas Ferrar,Nich: ffarrar,0.857,surname-only comparison
+VR00042,VC00025,Sandys,PC00174,1,person_edwin_sandys,Sir Edwin Sandys,Sir Edwin Sandys,1.000,surname-only comparison
+VR00043,VC00025,Sandys,PC00174,2,person_george_sandys,George Sandys,George Sandys,1.000,surname-only comparison
+VR00044,VC00026,Francis Wyatt,PC00207,1,person_francis_wyatt,Sir Francis Wyatt,Francis Wyatt,1.000,surname plus given-name comparison
+VR00045,VC00027,John Ferrar,PC00220,1,person_john_ferrar,John Ferrar,John Ferrar,1.000,surname plus given-name comparison
+VR00046,VC00027,John Ferrar,PC00220,2,person_nicholas_ferrar,Nicholas Ferrar,Nicholas Ferrar,0.781,surname plus given-name comparison
+VR00047,VC00028,Lady Dale,PC00224,1,person_thomas_dale,Sir Thomas Dale,Thomas Dale,1.000,surname-only comparison
+VR00048,VC00029,Robert Smith,PC00237,1,person_john_smith,Captain John Smith,Captain John Smith,0.792,surname plus given-name comparison
+VR00049,VC00029,Robert Smith,PC00237,2,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.792,surname plus given-name comparison
+VR00050,VC00030,Roger Smith,PC00238,1,person_john_smith,Captain John Smith,Captain John Smith,0.800,surname plus given-name comparison
+VR00051,VC00030,Roger Smith,PC00238,2,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.800,surname plus given-name comparison
+VR00052,VC00030,Roger Smith,PC00238,3,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,0.792,surname plus given-name comparison
+VR00053,VC00031,Rolfe,PC00239,1,person_john_rolfe,John Rolfe,John Rolfe,1.000,surname-only comparison
+VR00054,VC00032,Thomas Smith,PC00244,1,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,1.000,surname plus given-name comparison
+VR00055,VC00032,Thomas Smith,PC00244,2,person_john_smith,Captain John Smith,Captain John Smith,0.792,surname plus given-name comparison
+VR00056,VC00032,Thomas Smith,PC00244,3,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.792,surname plus given-name comparison
+VR00057,VC00033,Iohn Smyth,PC00309,1,person_john_smith,Captain John Smith,Captain John Smith,0.938,surname plus given-name comparison
+VR00058,VC00033,Iohn Smyth,PC00309,2,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.938,surname plus given-name comparison
+VR00059,VC00033,Iohn Smyth,PC00309,3,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,0.792,surname plus given-name comparison
+VR00060,VC00034,John Smyth,PC00316,1,person_john_smith,Captain John Smith,Captain John Smith,1.000,surname plus given-name comparison
+VR00061,VC00034,John Smyth,PC00316,2,person_john_smith_of_nibley,John Smith of Nibley,John Smith,1.000,surname plus given-name comparison
+VR00062,VC00034,John Smyth,PC00316,3,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,0.792,surname plus given-name comparison
+VR00063,VC00035,Thomas Smiths,PC00361,1,person_thomas_smythe,Sir Thomas Smythe,Thomas Smith,0.875,surname plus given-name comparison
+VR00064,VC00036,Captaine Argall,PC00438,1,person_samuel_argall,Sir Samuel Argall,Samuel Argall,0.781,surname plus given-name comparison
+VR00065,VC00037,Captaine Tucker,PC00445,1,person_william_tucker,Captain William Tucker,William Tucker,0.781,surname plus given-name comparison
+VR00066,VC00038,Frances Wyat,PC00525,1,person_francis_wyatt,Sir Francis Wyatt,Francis Wyatt,0.814,surname plus given-name comparison
+VR00067,VC00039,Francis Wyat,PC00527,1,person_francis_wyatt,Sir Francis Wyatt,Francis Wyatt,0.850,surname plus given-name comparison
+VR00068,VC00040,Georg Sandys,PC00532,1,person_george_sandys,George Sandys,George Sandys,1.000,surname plus given-name comparison
+VR00069,VC00041,Georg Smith,PC00533,1,person_john_smith,Captain John Smith,Captain John Smith,0.800,surname plus given-name comparison
+VR00070,VC00041,Georg Smith,PC00533,2,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.800,surname plus given-name comparison
+VR00071,VC00041,Georg Smith,PC00533,3,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,0.792,surname plus given-name comparison
+VR00072,VC00042,George Yeardly,PC00539,1,person_george_yeardley,Sir George Yeardley,George Yeardley,0.906,surname plus given-name comparison
+VR00073,VC00043,Iohn Ferrar,PC00580,1,person_john_ferrar,John Ferrar,John Ferrar,0.938,surname plus given-name comparison
+VR00074,VC00043,Iohn Ferrar,PC00580,2,person_nicholas_ferrar,Nicholas Ferrar,Nicholas Ferrar,0.812,surname plus given-name comparison
+VR00075,VC00044,Iohn Martin,PC00582,1,person_john_martin,Captain John Martin,John Martin,0.938,surname plus given-name comparison
+VR00076,VC00045,Iohn Rolfe,PC00583,1,person_john_rolfe,John Rolfe,John Rolfe,0.938,surname plus given-name comparison
+VR00077,VC00046,John Martin,PC00603,1,person_john_martin,Captain John Martin,John Martin,1.000,surname plus given-name comparison
+VR00078,VC00047,Martha Ferrar,PC00641,1,person_john_ferrar,John Ferrar,John Ferrar,0.792,surname plus given-name comparison
+VR00079,VC00047,Martha Ferrar,PC00641,2,person_nicholas_ferrar,Nicholas Ferrar,Nicholas Ferrar,0.781,surname plus given-name comparison
+VR00080,VC00048,Michael Lloyd Ferrar,PC00651,1,person_nicholas_ferrar,Nicholas Ferrar,Nicholas Ferrar,0.844,surname plus given-name comparison
+VR00081,VC00048,Michael Lloyd Ferrar,PC00651,2,person_john_ferrar,John Ferrar,John Ferrar,0.800,surname plus given-name comparison
+VR00082,VC00049,Samuell Argoll,PC00724,1,person_samuel_argall,Sir Samuel Argall,Samuel Argall,0.839,surname plus given-name comparison
+VR00083,VC00050,Smiths,PC00739,1,person_thomas_smythe,Sir Thomas Smythe,Thomas Smith,0.833,surname-only comparison
+VR00084,VC00050,Smiths,PC00739,2,person_john_smith,Captain John Smith,Captain John Smith,0.833,surname-only comparison
+VR00085,VC00050,Smiths,PC00739,3,person_john_smith_of_nibley,John Smith of Nibley,John Smith,0.833,surname-only comparison
+VR00086,VC00051,Smyth,PC00740,1,person_thomas_smythe,Sir Thomas Smythe,Sir Thomas Smythe,1.000,surname-only comparison
+VR00087,VC00051,Smyth,PC00740,2,person_john_smith,Captain John Smith,Captain John Smith,1.000,surname-only comparison
+VR00088,VC00051,Smyth,PC00740,3,person_john_smith_of_nibley,John Smith of Nibley,John Smith,1.000,surname-only comparison
+VR00089,VC00052,Wyatt,PC00824,1,person_francis_wyatt,Sir Francis Wyatt,Francis Wyatt,1.000,surname-only comparison
