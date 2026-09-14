@@ -1,0 +1,12 @@
+{
+  "reviewed_clusters": 52,
+  "accepted_clusters": 28,
+  "consolidated_people": 14,
+  "unresolved_clusters": 24,
+  "decision_counts": {
+    "accept": 28,
+    "needs_review": 2,
+    "reject": 8,
+    "uncertain": 14
+  }
+}
